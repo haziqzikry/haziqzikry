@@ -12,7 +12,7 @@ Hello! I'm Haziq and I am a 2nd-year Computer Science student majoring in Softwa
 - 💻 Currently Learning Data Structure & Algorithms (send help)
 - 🚀 Road to becoming a succesful Data Scientist
 - 🙇🏻‍♂️ Former DevOps Engineer
-- ⚡ Fun fact: I'm a workaholic
+- ⚡ Fun fact: IDK
 
 🛠 Tech I've Used
 
