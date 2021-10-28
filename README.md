@@ -14,7 +14,10 @@ Hello! I'm Haziq and I am a 2nd-year Computer Science student majoring in Softwa
 - 🙇🏻‍♂️ Former DevOps Engineer
 - ⚡ Fun fact: I'm a workaholic
 
-// ### 🛠 Tech I've Used
+🛠 Tech I've Used
 
+- Programming - C, C++, R
+- DevOps Tools – Jenkins, SonarQube, Nexus, Git, Ansible
+- Databases - Neo4j, MongoDB, SQL 
 
 
