@@ -3,14 +3,12 @@
 </a>&nbsp;&nbsp;
 
 </h1>
-## Hello! I'm Haziq and I am a <a target="_blank" rel="noopener noreferrer" 
+Hello! I'm Haziq and I am a 2nd-year Computer Science student majoring in Software Engineering at Universiti Teknologi Malaysia 🎓
 
-
-### 👨🏻‍💻 Facts about Me
-
+#### 👨🏻‍💻 Facts about Me
 
 - 🎓 2nd Year Software Engineering student, Universiti Teknologi Malaysia (🇲🇾)
-- 💡 Like to explore new technologies and develop software solutions and quick hacks
+- 💡  Eager to learn and explore new technologies and skills
 - 💻 Currently Learning Data Structure & Algorithms (send help)
 - 🚀 Road to becoming a succesful Data Scientist
 - 🙇🏻‍♂️ Former DevOps Engineer
