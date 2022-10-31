@@ -7,17 +7,18 @@ Hello! I'm Haziq and I am a 2nd-year Computer Science student majoring in Softwa
 
 #### 👨🏻‍💻 Facts about Me
 
-- 🎓 2nd Year Software Engineering student, Universiti Teknologi Malaysia (🇲🇾)
+- 🎓 3rd Year Software Engineering student, Universiti Teknologi Malaysia (🇲🇾)
 - 💡  Eager to learn and explore new technologies and skills
-- 💻 Currently Learning Data Structure & Algorithms (send help)
+- 💻 Currently learning to pivot into Data Analytics 
 - 🚀 Road to becoming a succesful Data Scientist
-- 🙇🏻‍♂️ Former DevOps Engineer
+- 🙇🏻‍♂️ Former DevOps Engineer & Tech Investments Intern
 - ⚡ Fun fact: IDK
 
 🛠 Tech I've Used
 
-- Programming - C, C++, R
-- DevOps Tools – Jenkins, SonarQube, Nexus, Git, Ansible
-- Databases - Neo4j, MongoDB, SQL 
+- Programming - Java, HTML, CSS, JS, PHP, C, C++
+- Data Analytics - R, Power BI, Tableau
+- DevOps Tools – Jenkins, SonarQube, Nexus, Git, Ansible, Azure DevOps
+- Databases - Neo4j, MongoDB, MySQL, Oracle, Azure
 
 
