@@ -3,7 +3,7 @@
 </a>&nbsp;&nbsp;
 
 </h1>
-Hello! I'm Haziq and I am a 2nd-year Computer Science student majoring in Software Engineering at Universiti Teknologi Malaysia 🎓
+Hello! I'm Haziq and I am a Penultimate Year Computer Science student majoring in Software Engineering at Universiti Teknologi Malaysia 🎓
 
 #### 👨🏻‍💻 Facts about Me
 
