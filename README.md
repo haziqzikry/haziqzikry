@@ -16,8 +16,9 @@ Hello! I'm Haziq and I am a Penultimate Year Computer Science student majoring i
 
 🛠 Tech I've Used
 
-- Programming - Java, HTML, CSS, JS, PHP, C, C++
-- Data Analytics - R, Power BI, Tableau
+- Programming - Java, HTML, CSS, JS, TS, PHP
+- Frameworks - Node.js, React.js, Express.js, 
+- Data Analytics - Python, R, Power BI, Tableau
 - DevOps Tools – Jenkins, SonarQube, Nexus, Git, Ansible, Azure DevOps
 - Databases - Neo4j, MongoDB, MySQL, Oracle, Azure
 
