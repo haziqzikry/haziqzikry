@@ -16,15 +16,14 @@ Hello! I'm Haziq and I am a Penultimate Year Computer Science student majoring i
 - 🙇🏻‍♂️ Former DevOps Engineer @ Infinitium & Tech Investments Intern @ Khazanah
 - ⚡ Fun fact: IDK
 
-🛠 Tech I've Used
 
-- Programming - Java, HTML, CSS, JS, TS, PHP
+<!-- - Programming - Java, HTML, CSS, JS, TS, PHP
 - Frameworks - Node.js, React.js, Express.js, 
 - Data Analytics - Python, R, Power BI, Tableau
 - DevOps Tools – Jenkins, SonarQube, Nexus, Git, Ansible, Azure DevOps
-- Databases - Neo4j, MongoDB, MySQL, Oracle, Azure
+- Databases - Neo4j, MongoDB, MySQL, Oracle, Azure -->
 
-## Toolkits
+## 🛠 Tech I've Used
 
 ### Languages
 
