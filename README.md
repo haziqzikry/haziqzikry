@@ -87,4 +87,4 @@ Hello! I'm Haziq and I am a Penultimate Year Computer Science student majoring i
 </p>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=haziqzikry&show_icons=true&locale=en" alt="haziqzikry" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haziqzikry&" alt="haziqzikry" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=haziqzikry&show_icons=true&locale=en" alt="haziqzikry" /></p>
