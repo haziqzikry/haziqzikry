@@ -3,7 +3,7 @@
 </a>&nbsp;&nbsp;
 
 </h1>
-<h3 align="center">Seeking Data Science Internship for Sept 2023 - Feb 2024</h3>
+<h3 align="center">Seeking Data Science Internship for August 2023 - Feb 2024</h3>
 
 Hello! I'm Haziq and I am a Penultimate Year Computer Science student majoring in Software Engineering at Universiti Teknologi Malaysia 🎓
 
@@ -25,7 +25,7 @@ Hello! I'm Haziq and I am a Penultimate Year Computer Science student majoring i
 
 ## 🛠 Tech I've Used
 
-#### Data Science
+### Data Science
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -69,14 +69,9 @@ Hello! I'm Haziq and I am a Penultimate Year Computer Science student majoring i
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 
 
-#### DevOps
+### DevOps
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 
-
-#### Tools
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haziqzikry&label=Profile%20views&color=0e75b6&style=flat" alt="haziqzikry" /> </p>
 
