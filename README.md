@@ -12,7 +12,7 @@ Hello! I'm Haziq and I am a Penultimate Year Computer Science student majoring i
 - 🎓 3rd Year Software Engineering student, Universiti Teknologi Malaysia (🇲🇾)
 - 💡  Eager to learn and explore new technologies and skills
 - 💻 Currently learning to pivot into Data Analytics 
-- 🚀 Road to becoming a succesful Data Scientist
+- 🚀 Road to becoming a successful Data Scientist
 - 🙇🏻‍♂️ Former DevOps Engineer @ Infinitium & Tech Investments Intern @ Khazanah
 - ⚡ Fun fact: IDK
 
