@@ -3,7 +3,7 @@
 </a>&nbsp;&nbsp;
 
 </h1>
-<h3 align="center">Seeking Data Science Internship for August 2023 - February 2024</h3>
+<h3 align="center">Incoming Data Scientist Intern @ 🌍🤝💼📈👀😉</h3>
 
 Hello! I'm Haziq and I am a Penultimate Year Computer Science student majoring in Software Engineering at Universiti Teknologi Malaysia 🎓
 
