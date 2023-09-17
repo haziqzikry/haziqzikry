@@ -3,13 +3,13 @@
 </a>&nbsp;&nbsp;
 
 </h1>
-<h3 align="center">Analytics Intern @ 🌍📈👀</h3>
+<h3 align="center">Data Science Analytics Intern @ 🌍📈👀</h3>
 
-Hello! I'm Haziq and I am a Penultimate Year Computer Science student majoring in Software Engineering at Universiti Teknologi Malaysia 🎓
+Hello! I'm Haziq and I am a Final Year Computer Science student majoring in Software Engineering at Universiti Teknologi Malaysia 🎓
 
 #### 👨🏻‍💻 Facts about Me
 
-- 🎓 3rd Year Software Engineering student, Universiti Teknologi Malaysia (🇲🇾)
+- 🎓 Final Year Software Engineering student, Universiti Teknologi Malaysia (🇲🇾)
 - 💡  Eager to learn and explore new technologies and skills
 - 💻 Currently learning to pivot into Data Analytics 
 - 🚀 Road to becoming a successful Data Scientist
