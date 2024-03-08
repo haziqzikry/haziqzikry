@@ -3,7 +3,7 @@
 </a>&nbsp;&nbsp;
 
 </h1>
-<h3 align="center">Data Science Analytics Intern @ 🌍📈👀</h3>
+<h3 align="center">Data Scientist @ 🌍📈👀</h3>
 
 Hello! I'm Haziq and I am a Final Year Computer Science student majoring in Software Engineering at Universiti Teknologi Malaysia 🎓
 
