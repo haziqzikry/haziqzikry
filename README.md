@@ -81,4 +81,3 @@ Hello! I'm Haziq and I am a Final Year Computer Science student majoring in Soft
 </p>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=haziqzikry&show_icons=true&locale=en" alt="haziqzikry" /></p>
