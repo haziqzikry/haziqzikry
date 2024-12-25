@@ -9,7 +9,7 @@ Hello! I'm Haziq!
 
 #### 👨🏻‍💻 Facts about Me
 
-- 🎓  Graduated with a Bachelor of Coumputer Science (Software Engineering) @ UTM
+- 🎓  Graduated with a Bachelor of Computer Science (Software Engineering) @ UTM
 - 💡  Eager to learn and explore new technologies and skills
 - 💻 Currently exploring Data Platform Engineering (Kubernetes, AWS, Terraform, Helm Charts, GitOps)
 - 🚀 Road to becoming a successful Data Scientist
