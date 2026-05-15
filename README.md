@@ -3,7 +3,7 @@
 </a>&nbsp;&nbsp;
 
 </h1>
-<h3 align="center">Data Engineer @ 💸💻👀</h3>
+<h3 align="center">Data Platform Engineer @ 💸💻👀</h3>
 
 Hello! I'm Haziq! I am a Data Platform Engineer with 2+ years of experience in Payments, Fintech, FMCG, and Healthcare Domains. Currently, I am contributing to a team focused on **building a near real-time highly scalable data platform.**
 
@@ -14,11 +14,4 @@ Hello! I'm Haziq! I am a Data Platform Engineer with 2+ years of experience in P
 - 𝗖𝗹𝗼𝘂𝗱 & 𝗗𝗮𝘁𝗮 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 - AWS (S3, Glue, Athena, Lake Formation, Lambda, EventBridge, DynamoDB, EMR on EKS, EKS, ECR, KMS, RDS, MSK, Secrets Manager, QuickSight), Kubernetes, Docker, Helm, ArgoCD, GitOps, Terraform, Atlantis, GitLab CI, Git, SonarQube, Nexus, Datadog, Prometheus, Grafana, Loki
 
 Feel free to connect to talk about anything data, tech stacks, and solutions!
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/haziqzikry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haziqzikry" height="30" width="40" /></a>
-</p>
-
 
